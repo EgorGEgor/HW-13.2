@@ -13,7 +13,8 @@
 
 1. Добавьте пользователя cryptouser.
 
-![1](https://github.com/user-attachments/assets/7d1231e3-28a1-4570-acac-b1cde2adbdb9)
+![2 1](https://github.com/user-attachments/assets/a286e16d-33b5-438e-8580-1d72e4d72929)
+
 
 2. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 ![2](https://github.com/user-attachments/assets/153573e0-8a56-4fe7-a5cc-81427bb776ee)
