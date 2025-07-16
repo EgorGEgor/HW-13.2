@@ -13,7 +13,8 @@
 
 1. Добавьте пользователя cryptouser.
 
-![2 1](https://github.com/user-attachments/assets/a286e16d-33b5-438e-8580-1d72e4d72929)
+![1](https://github.com/user-attachments/assets/37b70db0-9cbc-418b-8996-0feb05ab8a87)
+
 
 
 2. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
@@ -35,7 +36,8 @@
 
 1. Установите поддержку **LUKS**.
 
-![2 1](https://github.com/user-attachments/assets/52f28bf9-cd3e-4bf9-86ef-1bffeaf77d89)
+![2 1](https://github.com/user-attachments/assets/2c6f8ff0-26c9-462d-a1bc-0cf0bcbb5e3d)
+
 
 2. Создайте небольшой раздел, например, 100 Мб.
    
