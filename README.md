@@ -37,8 +37,13 @@
 ![2 1](https://github.com/user-attachments/assets/52f28bf9-cd3e-4bf9-86ef-1bffeaf77d89)
 
 2. Создайте небольшой раздел, например, 100 Мб.
-![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/13.%20Информационная%20безопасность/02.%20Защита%20хоста/screenshots/Задание%202.2.png)
-3. Зашифруйте созданный раздел с помощью LUKS.
-![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/13.%20Информационная%20безопасность/02.%20Защита%20хоста/screenshots/Задание%202.3.png)
+3. 
+<img width="480" height="53" alt="2 2" src="https://github.com/user-attachments/assets/588b8e7d-297c-4939-a708-a49c93176d72" />
+<img width="591" height="75" alt="2 3" src="https://github.com/user-attachments/assets/c82e1a1c-bee7-4028-a92c-0e629a481f94" />
+
+4. Зашифруйте созданный раздел с помощью LUKS.
+
+<img width="1038" height="538" alt="2 4" src="https://github.com/user-attachments/assets/c62d3924-dff7-4821-b6f5-88c9f6b0e5c3" />
+<img width="520" height="121" alt="2 5" src="https://github.com/user-attachments/assets/8f9ed285-c3b9-4820-a6d3-443e9284e888" />
 
 ---
