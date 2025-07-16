@@ -32,7 +32,8 @@
 ### Ответ:
 
 1. Установите поддержку **LUKS**.
-![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/13.%20Информационная%20безопасность/02.%20Защита%20хоста/screenshots/Задание%202.1.png)
+![2 1](https://github.com/user-attachments/assets/52f28bf9-cd3e-4bf9-86ef-1bffeaf77d89)
+
 2. Создайте небольшой раздел, например, 100 Мб.
 ![png](https://github.com/tverdyakov/portfolio-tverdyakov/blob/main/Experience%2C%20skills%20and%20abilities/Netology/13.%20Информационная%20безопасность/02.%20Защита%20хоста/screenshots/Задание%202.2.png)
 3. Зашифруйте созданный раздел с помощью LUKS.
